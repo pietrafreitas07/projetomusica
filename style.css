@@ -1,0 +1,65 @@
+.logo{
+    width: 13vw;
+}
+
+.cabeçalho{
+    background-color: #8B0000;
+}
+
+.btn{
+    color: #FFF6F2;
+}
+
+nav{
+    background-color: #8B0000;
+}
+
+.form-control{
+    background-color: #cf5f5f;
+    color: #FFF6F2;
+}
+
+.navbar-brand{
+    color: #8B0000;
+}
+
+
+body{
+    background-color: #FFF6F2;
+}
+
+.rounded{
+    width: 13vw;
+}
+
+.btn{
+    color: #FFF6F2;
+}
+
+.nome{
+    color: #8B0000;
+}
+
+.img-thumbnail{
+    width: 25vw;
+}
+
+.nome2{
+    color: #8B0000;
+}
+
+.icone{
+    width: 7vw;
+}
+
+.musica{
+    width: 8vw;
+}
+
+.curtir{
+    width: 5vw;
+}
+
+.flex-grow-1{
+    color: #8B0000;
+}
